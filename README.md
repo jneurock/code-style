@@ -4,11 +4,11 @@ These are my personal code style guides. Feel free to use them or fork this repo
 
 ## Quick Links
 
-* [JavaScript](js.md)
-* [Sass (SCSS)](scss.md)
-* [HTML](html.md)
-* [Java](java.md)
-* [Ruby](ruby.md)
+* [JavaScript](guides/js.md)
+* [Sass (SCSS)](guides/scss.md)
+* [HTML](guides/html.md)
+* [Java](guides/java.md)
+* [Ruby](guides/ruby.md)
 
 ## General
 
