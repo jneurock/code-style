@@ -1,10 +1,10 @@
 # Quick Links
 
-* JavaScript
-* Sass (SCSS)
-* HTML
-* Java
-* Ruby
+* [JavaScript](js.md)
+* [Sass (SCSS)](scss.md)
+* [HTML](html.md)
+* [Java](java.md)
+* [Ruby](ruby.md)
 
 ## General
 
